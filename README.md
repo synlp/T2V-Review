@@ -16,15 +16,23 @@ If you have any suggestions about this repository, please feel free to [start a 
 
 ## Products
 ### 2023
-Animate Anyone [[website]](https://humanaigc.github.io/animate-anyone/)
-Emu [[website]](https://emu-video.metademolab.com/)
-Gen-2 [[website]](https://research.runwayml.com/gen2)
-Midjourney [[website]](https://www.midjourney.com/)
-Morph Studio [[website]](https://www.morphstudio.com/)
-Outfit Anyone [[website]](https://humanaigc.github.io/outfit-anyone/)
-Pika [[website]](https://pika.art/login) 
-PixelDance [[website]](https://makepixelsdance.github.io/)
-VideoPoet [[website]](https://sites.research.google/videopoet/)
+- Animate Anyone [[website]](https://humanaigc.github.io/animate-anyone/)
+
+- Emu [[website]](https://emu-video.metademolab.com/)
+
+- Gen-2 [[website]](https://research.runwayml.com/gen2)
+
+- Midjourney [[website]](https://www.midjourney.com/)
+
+- Morph Studio [[website]](https://www.morphstudio.com/)
+
+- Outfit Anyone [[website]](https://humanaigc.github.io/outfit-anyone/)
+
+- Pika [[website]](https://pika.art/login) 
+
+- PixelDance [[website]](https://makepixelsdance.github.io/)
+
+- VideoPoet [[website]](https://sites.research.google/videopoet/)
 
 
 ## Papers
