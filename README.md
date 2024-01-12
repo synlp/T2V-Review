@@ -48,7 +48,13 @@ If you have any suggestions about this repository, please feel free to [start a 
 
 [arXiv 2023] Stable Video Diffusion: Scaling Latent Video Diffusion Models to Large Datasets [[paper]](https://arxiv.org/pdf/2311.15127.pdf)
 
+[arXiv 2023] VideoComposer: Compositional Video Synthesis with Motion Controllability [[paper]](https://arxiv.org/pdf/2306.02018.pdf) [[code]](https://github.com/ali-vilab/videocomposer) [[project]](https://videocomposer.github.io/)
+
+[arXiv 2023] VideoFactory: Swap Attention in Spatiotemporal Diffusions for Text-to-Video Generation [[paper]](https://arxiv.org/pdf/2305.10874.pdf)
+
 [CVPR 2023] Align your Latents: High-Resolution Video Synthesis with Latent Diffusion Models [[paper]](https://arxiv.org/pdf/2304.08818.pdf) [[project]](https://research.nvidia.com/labs/toronto-ai/VideoLDM/) [[reproduced code]](https://github.com/srpkdyy/VideoLDM)
 
 [CVPR 2023] Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Khachatryan_Text2Video-Zero_Text-to-Image_Diffusion_Models_are_Zero-Shot_Video_Generators_ICCV_2023_paper.pdf) [[code]](https://github.com/Picsart-AI-Research/Text2Video-Zero) [[demo]](https://huggingface.co/spaces/PAIR/Text2Video-Zero) [[project]](https://text2video-zero.github.io/) 
+
+[CVPR 2023] Video Probabilistic Diffusion Models in Projected Latent Space [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_Video_Probabilistic_Diffusion_Models_in_Projected_Latent_Space_CVPR_2023_paper.pdf) [[code]](https://github.com/sihyun-yu/PVDM)
 
